@@ -25,7 +25,7 @@
         data() {
             return {
                 quotes: [
-                    'Just a quote to see something'
+                    'Just a quote to see something you write'
                 ],
                 maxQuotes: 10
             }
